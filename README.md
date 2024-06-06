@@ -18,4 +18,6 @@ The *Second Stage* of the solver development will be an entirely new implementat
 
 ## Getting started
 
-Please see the documentation for [getting started](https://simvascular.github.io/svFSIplus/index.html) and [implementation details](https://simvascular.github.io/svFSIplus/implementation.html). To run examples, have a look at our [testing guide](https://simvascular.github.io/svFSIplus/testing.html).
+Please see the documentation for [getting started](https://simvascular.github.io/svFSIplus/index.html), [implementation details](https://simvascular.github.io/svFSIplus/implementation.html) and [solver input parameter file format](https://simvascular.github.io/svFSIplus/solver-input-file-format.html). To run examples, have a look at our [testing guide](https://simvascular.github.io/svFSIplus/testing.html).
+
+
